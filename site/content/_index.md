@@ -1,5 +1,5 @@
 ---
-title: This is my first JAMStack website!
+title: This is my first JAMStack website! With Hubert.
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
